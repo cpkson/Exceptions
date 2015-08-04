@@ -1,4 +1,4 @@
-package uk.co.travelplaces.exception;
+package uk.co.parknet.exception;
 
 /**
  * Processing Exceptions
